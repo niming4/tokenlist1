@@ -1,0 +1,25 @@
+{
+  "name": "MT",
+  "logoURI": "https://s4.ax1x.com/2022/03/05/bd8lX6.png",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x8b97BD074B9DbedBf7E34D1798fb815079Fb2F3a",
+      "name": "MT",
+      "symbol": "MT",
+      "decimals": 18,
+      "logoURI": "https://s4.ax1x.com/2022/03/05/bd8lX6.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
